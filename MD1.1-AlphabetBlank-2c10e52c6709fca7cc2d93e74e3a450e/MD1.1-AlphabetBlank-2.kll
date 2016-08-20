@@ -1,0 +1,11 @@
+Name = "MD1.1";
+Layout = "AlphabetBlank";
+Base = "AlphabetBlank";
+Version = "0.3d";
+Author = "HaaTa (Jacob Alexander) 2014-2016";
+KLL = "0.3c";
+Date = "2016-02-06";
+Generator = "KIICONF 0.2";
+
+U"ESC" : '~';
+
