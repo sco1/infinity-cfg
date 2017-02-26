@@ -45,6 +45,10 @@
                 "1": {
                     "key": "F1",
                     "label": "F1"
+                },
+                "2": {
+                    "key": "CONS:CALCULATOR",
+                    "label": "CALC"
                 }
             }
         },
@@ -245,6 +249,10 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
+                },
+                "2": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
@@ -288,6 +296,10 @@
                 "1": {
                     "key": "UP",
                     "label": "\u2191"
+                },
+                "2": {
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 }
             }
         },
@@ -340,6 +352,10 @@
                 "0": {
                     "key": "Y",
                     "label": "Y"
+                },
+                "1": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -353,6 +369,10 @@
                 "0": {
                     "key": "U",
                     "label": "U"
+                },
+                "1": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -366,6 +386,10 @@
                 "0": {
                     "key": "I",
                     "label": "I"
+                },
+                "1": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
@@ -392,6 +416,10 @@
                 "0": {
                     "key": "P",
                     "label": "P"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -461,6 +489,10 @@
                 "1": {
                     "key": "LEFT",
                     "label": "\u2190"
+                },
+                "2": {
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -478,6 +510,10 @@
                 "1": {
                     "key": "DOWN",
                     "label": "\u2193"
+                },
+                "2": {
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
@@ -495,6 +531,10 @@
                 "1": {
                     "key": "RIGHT",
                     "label": "\u2192"
+                },
+                "2": {
+                    "key": "END",
+                    "label": "END"
                 }
             }
         },
@@ -573,6 +613,10 @@
                 "0": {
                     "key": "L",
                     "label": "L"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },

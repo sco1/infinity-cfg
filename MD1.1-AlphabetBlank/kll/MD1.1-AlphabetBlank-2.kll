@@ -8,4 +8,10 @@ Date = "2016-02-06";
 Generator = "KIICONF 0.2";
 
 U"ESC" : '~';
+U"1" : CONS"CALCULATOR";
+U"BACKSLASH" : U"DELETE";
+U"W" : U"PAGEUP";
+U"A" : U"HOME";
+U"S" : U"PAGEDOWN";
+U"D" : U"END";
 
