@@ -1,6 +1,8 @@
 #include "infinity60.h"
 
 #define KC_CAD LALT(LCTL(KC_DEL))
+#define KC_WINL LCTL(LGUI(KC_LEFT))
+#define KC_WINR LCTL(LGUI(KC_RIGHT))
 
 const uint16_t keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [0] = KEYMAP(
@@ -23,7 +25,7 @@ const uint16_t keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //|---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+-------------------|
      KC_GRV   , KC_F1   , KC_F2   , KC_F3   , KC_F4   , KC_F5   , KC_F6   , KC_F7   , KC_F8   , KC_F9   , KC_F10  , KC_F11  , KC_F12  , KC_DEL , KC_TRNS  ,
   //|---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+-------------------|
-     KC_TRNS  , KC_TRNS , KC_UP   , KC_TRNS , KC_TRNS , KC_TRNS , KC_MUTE , KC_VOLD , KC_VOLU , KC_TRNS , KC_TRNS , KC_TRNS , KC_TRNS ,      KC_TRNS      ,
+     KC_TRNS  , KC_WINL , KC_UP   , KC_WINR , KC_TRNS , KC_TRNS , KC_MUTE , KC_VOLD , KC_VOLU , KC_TRNS , KC_TRNS , KC_TRNS , KC_TRNS ,      KC_TRNS      ,
   //|---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+-------------------|
      KC_TRNS  , KC_LEFT , KC_DOWN , KC_RGHT , KC_TRNS , KC_TRNS , KC_TRNS , KC_TRNS , KC_TRNS , KC_TRNS , KC_TRNS , KC_TRNS ,           KC_CAD            ,
   //|---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+-------------------|

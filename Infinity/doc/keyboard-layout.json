@@ -1,0 +1,144 @@
+[
+  [
+    {
+      "a": 5
+    },
+    "`\n~\n\n\n\n\nEsc",
+    "F1\n<i class='fa fa-calculator'></i>\n\n\n\n\n1",
+    "F2\n\n\n\n\n\n2",
+    "F3\n\n\n\n\n\n3",
+    "F4\n\n\n\n\n\n4",
+    "F5\n\n\n\n\n\n5",
+    "F6\n\n\n\n\n\n6",
+    "F7\n\n\n\n\n\n7",
+    "F8\n\n\n\n\n\n8",
+    "F9\n\n\n\n\n\n9",
+    "F10\n\n\n\n\n\n0",
+    "F11\n\n\n\n\n\n-",
+    "F12\n\n\n\n\n\n=",
+    {
+      "w": 2
+    },
+    "Del\nDel\n\n\n\n\nBackspace"
+  ],
+  [
+    {
+      "a": 7,
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "a": 5
+    },
+    "WinL\n\n\n\n\n\nQ",
+    "<i class='kb kb-Arrows-Up'></i>\nPgUp\n\n\n\n\nW",
+    "WinrR\n\n\n\n\n\nE",
+    {
+      "a": 7
+    },
+    "R",
+    "T",
+    {
+      "a": 5
+    },
+    "<i class='fa fa-volume-off'></i>\n\n\n\n\n\nY",
+    "<i class='fa fa-volume-down'></i>\n\n\n\n\n\nU",
+    "<i class='fa fa-volume-up'></i>\n\n\n\n\n\nI",
+    {
+      "a": 7
+    },
+    "O",
+    "P",
+    "[",
+    "]",
+    {
+      "w": 1.5
+    },
+    "\\"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Caps Lock",
+    {
+      "a": 5
+    },
+    "<i class='kb kb-Arrows-Left'></i>\nHome\n\n\n\n\nA",
+    "<i class='kb kb-Arrows-Down'></i>\nPgDn\n\n\n\n\nS",
+    "<i class='kb kb-Arrows-Right'></i>\nEnd\n\n\n\n\nD",
+    {
+      "a": 7
+    },
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    ";",
+    "'",
+    {
+      "w": 2.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "<i class='fa fa-fast-backward'></i>\n\n\n\n\n\n,",
+    "<i class='fa fa-fast-forward'></i>\n\n\n\n\n\n.",
+    "<i class='fa fa-play'></i><i class='fa fa-pause'></i>\n\n\n\n\n\n/",
+    {
+      "a": 7,
+      "w": 2.75
+    },
+    "Shift"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "<i class='kb kb-logo-windows-8'></i>",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 6.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "<i class='kb kb-logo-windows-8'></i>",
+    {
+      "w": 1.25
+    },
+    "Layer 1",
+    {
+      "w": 1.25
+    },
+    "Layer 2"
+  ]
+]
