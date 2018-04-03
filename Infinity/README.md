@@ -1,5 +1,5 @@
 # Infinity 60% Layout
-![Layout link](../blob/master/Infinity/doc/keyboard-layout.png)
+![Layout link](./doc/keyboard-layout.png)
 
 Built using [QMK Firmware v0.6.2](https://github.com/qmk/qmk_firmware/releases/tag/0.6.2)
 
