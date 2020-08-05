@@ -1,7 +1,13 @@
 # My Keyboard Layouts!
 
+## Sinc
+![Full Sinc Layout PNG](./Sinc/doc/keyboard-layout.png)
+
+## Iris
+![Full Iris Layout PNG](./Full%20Iris/doc/keyboard-layout.png)
+
 ## Iris Gamepad
-![Layout link](./Iris/doc/keyboard-layout.png)
+![Gamepad Iris Layout PNG](./Iris%20Gamepad/doc/keyboard-layout.png)
 
 ## Infinity 60%
-![Layout link](./Infinity/doc/keyboard-layout.png)
+![Infinity Layout PNG](./Infinity/doc/keyboard-layout.png)
